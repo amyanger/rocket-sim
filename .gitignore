@@ -1,0 +1,12 @@
+# Compiled binaries
+rocket
+*.o
+*.out
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# macOS
+.DS_Store
