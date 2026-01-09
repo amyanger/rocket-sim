@@ -42,3 +42,11 @@ Time    X       Y
 ...
 Rocket landed at X = 255.10 meters
 ```
+
+## Author
+
+Arjun Myanger
+
+## License
+
+MIT License
