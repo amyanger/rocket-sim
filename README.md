@@ -45,7 +45,7 @@ Rocket landed at X = 255.10 meters
 
 ## Author
 
-Arjun Myanger
+Arjun Myanger - [GitHub](https://github.com/amyanger)
 
 ## License
 
